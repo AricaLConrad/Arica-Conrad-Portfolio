@@ -3,7 +3,7 @@
 
 // Changing text header color from green to blue due to personal preference.
 @use 'variables' with (
-  $section-headings-color: #155799;
+  $section-headings-color: #155799
 );
 
 @import "{{ site.theme }}";
