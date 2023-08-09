@@ -2,7 +2,7 @@
 
 This part of my portfolio showcases my technical writing samples.
 
-As required for my bachelor's degree, I took a Technical Writing class. In the group projects I was a part of, I focused on content as well. 
+As required for my bachelor's degree, I took a Technical Writing class. I focused on content in the many coding group projects I was a part of as well. I frequently updated our README files, created our GitHub issues and project boards, and I wrote all the text the users would see on the user interface.
 
 I am interested in technical writing because the words we use are very important. One explanation can be all the difference between someone understanding how to use an application versus closing the application in frustration.
 
@@ -16,4 +16,4 @@ Below are links to my technical writing samples.
 - Other technical writing samples (future links)
 
 #
-[Home Page](./)
+[Home Page](../README.md)
