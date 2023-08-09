@@ -4,7 +4,7 @@ Hello and welcome to my portfolio! Due to my exposure to a wide range of topics 
 
 # Portfolio Links
 
-- [Technical Writing Samples 📝](technical-writing-samples/technical-writing-samples.md)
+- [Technical Writing Samples](technical-writing-samples/technical-writing-samples.md)📝
 - Other work
 
 # Thank you!
