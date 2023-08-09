@@ -15,5 +15,6 @@ Below are links to my technical writing samples.
 - iOS Emergency Information Tutorial (future link)
 - Other technical writing samples (future links)
 
-#
+<br> ---
+
 [Home Page](../README.md)
