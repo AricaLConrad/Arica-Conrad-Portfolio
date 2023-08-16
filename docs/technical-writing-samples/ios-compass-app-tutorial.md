@@ -1,4 +1,4 @@
-# The iOS Compass App Tutorial
+# The iOS Compass App Tutorial 🧭
 
 # About This Tutorial
 
@@ -18,4 +18,4 @@ Now provide the link to the PDF file of this tutorial so that people can downloa
 
 <br> ---
 
-Add navigation links here!
+[Technical Writing Samples Page](./technical-writing-samples.md) | [Home Page](../README.md)
