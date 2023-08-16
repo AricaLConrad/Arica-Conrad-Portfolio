@@ -17,4 +17,4 @@ Below are links to my technical writing samples.
 
 <br> ---
 
-[Home Page](../README.md)
+[Home Page](../README.md) |
