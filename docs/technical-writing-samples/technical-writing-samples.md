@@ -1,4 +1,4 @@
-# Technical Writing Samples
+# Technical Writing Samples 📝
 
 This part of my portfolio showcases my technical writing samples.
 
