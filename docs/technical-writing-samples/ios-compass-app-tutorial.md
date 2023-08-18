@@ -2,6 +2,8 @@
 
 # About This Tutorial
 
+**Complete later!!!**
+
 Some background information about why I wrote this tutorial and what it means for TechEase. Probably could mention that this was the first tutorial I wrote for TechEase.
 
 Maybe talk about some challenges with writing this tutorial as well as how I gathered feedback.
@@ -76,7 +78,7 @@ To unlock your current direction, tap anywhere within the compass face and the r
 
 # Want to Read More?
 
-Now provide the link to the PDF file of this tutorial so that people can download the full version of the tutorial.
+If you would like to read the full version of the iOS Compass App Tutorial, you can find the PDF file of the tutorial [here](../assets/files/Conrad-iOS-Compass-App-Tutorial.pdf).
 
 <br> ---
 
