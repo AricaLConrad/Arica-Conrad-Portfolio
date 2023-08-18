@@ -78,7 +78,7 @@ To unlock your current direction, tap anywhere within the compass face and the r
 
 # Want to Read More?
 
-If you would like to read the full version of the iOS Compass App Tutorial, you can view the PDF file of the tutorial [here](../assets/files/Conrad-iOS-Compass-App-Tutorial.pdf).
+If you would like to read the full version of the iOS Compass App Tutorial, you can view the PDF file of the tutorial **HERE**.
 
 <br> ---
 
