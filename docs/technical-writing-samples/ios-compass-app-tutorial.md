@@ -12,7 +12,7 @@ Explain why I am providing an excerpt and not the whole tutorial. (Because it is
 
 # Tutorial Excerpt
 
-## Using the Compass App
+## Part 2: Using the Compass App
 
 Once the Compass app is open, you should see a screen that resembles the face of a compass with some data about your current location below it.
 
@@ -78,7 +78,7 @@ To unlock your current direction, tap anywhere within the compass face and the r
 
 # Want to Read More?
 
-If you would like to read the full version of the iOS Compass App Tutorial, you can view the PDF file of the tutorial **HERE**.
+If you would like to read the full version of the iOS Compass App Tutorial, you can view the PDF file of the tutorial [here](../assets/files/Conrad-iOS-Compass-App-Tutorial.pdf).
 
 <br> ---
 
