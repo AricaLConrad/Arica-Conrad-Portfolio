@@ -90,7 +90,7 @@ _An event alert in the lock screen's Notification Center about the holiday Palm 
 
 # Want to Read More?
 
-If you would like to read the full version of the iOS Calendar App Tutorial, you can view the PDF file of the tutorial **HERE**.
+If you would like to read the full version of the iOS Calendar App Tutorial, you can view the PDF file of the tutorial [here](../assets/files/Conrad-iOS-Calendar-App-Tutorial.pdf).
 
 <br> ---
 
