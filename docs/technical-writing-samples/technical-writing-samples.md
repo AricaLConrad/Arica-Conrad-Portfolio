@@ -12,7 +12,7 @@ Below are links to my technical writing samples.
 
 - [iOS Compass App Tutorial](./ios-compass-app-tutorial.md) 🧭
 - [iOS Calendar App Tutorial](./ios-calendar-app-tutorial.md) 📆
-- iOS Emergency Information Tutorial (future link)
+- [iOS Emergency Information Tutorial](./ios-emergency-information-tutorial.md)⚕️
 - Other technical writing samples (future links)
 
 <br> ---
