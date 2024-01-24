@@ -26,15 +26,15 @@ I first created 10 rough draft drawings using pencil and paper. I had fun experi
 
 After my rough draft drawings were complete, I chose five of them to explore further. For these tight rough drafts, we could introduce color in the form of analogous or triadic color schemes (black and white could also be included). I picked color schemes that seemed most realistic for each picture. For instance, autumn has a lot of reds and oranges in real life, so I thought an analogous color scheme using red, orange, and yellow would be the most realistic. In contrast, I imagined my rocket ship using a retro red, white, and blue color scheme, so adding yellow to color the Moon would make a triadic color scheme.
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-1.jpg" alt="Full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-1.jpg" alt="Full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it." width="50%" height="50%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-2.jpg" alt="Full-color version of the picture of the pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-2.jpg" alt="Full-color version of the picture of the pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it." width="50%" height="50%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-3.jpg" alt="Full-color version of the picture of the leaves falling from a tree onto three pumpkins with the phrase 'Leaves are falling autumn's calling' next to it." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-3.jpg" alt="Full-color version of the picture of the leaves falling from a tree onto three pumpkins with the phrase 'Leaves are falling autumn's calling' next to it." width="50%" height="50%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-4.jpg" alt="Full-color version of the picture of the snowman next to two trees with the phrase 'When snow falls nature listens' next to it." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-4.jpg" alt="Full-color version of the picture of the snowman next to two trees with the phrase 'When snow falls nature listens' next to it." width="50%" height="50%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-5.jpg" alt="Full-color version of the picture of the Christmas tree with the phrase 'Dreaming of a white Christmas' next to it." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-5.jpg" alt="Full-color version of the picture of the Christmas tree with the phrase 'Dreaming of a white Christmas' next to it." width="50%" height="50%"/>
 
 # Process
 
@@ -50,7 +50,9 @@ I then used Adobe InDesign to create my final submission layout. We were instruc
 
 # Final Submission
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-1.jpg" alt="A collage containing the digitally created, full-color version of the picture of the rocket ship; text explaining the process to create the rocket ship picture; and the five full-colored versions of the pictures of the rocket ship, pirate ship, autumn leaves, snowman and trees, and Christmas tree." width="100%" height="100%"/>
+This was my final submission for Assignment 4. I also attached this picture in a post to a Canvas discussion forum for peer analysis by my classmates.
+
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-1.jpg" alt="A collage containing the digitally created, full-color version of the picture of the rocket ship; text explaining the process to create the rocket ship picture; and the five full-colored versions of the pictures of the rocket ship, pirate ship, autumn leaves, snowman and trees, and Christmas tree." width="125%" height="125%"/>
 
 Here is a bigger version of my final picture:
 
