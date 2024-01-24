@@ -8,8 +8,7 @@ Other information to add later...
 
 Below are links to my graphic design samples.
 
-- Assignment 4 - Lines, Shapes, Words, Color 🚀
-- [iOS Compass App Tutorial](./ios-compass-app-tutorial.md) 🧭
+- [Assignment 4 - Lines, Shapes, Words, Color](./assignment-4-lines-shapes-words-colors.md) 🚀
 - Other graphic design samples (future links)
 
 <br> ---
