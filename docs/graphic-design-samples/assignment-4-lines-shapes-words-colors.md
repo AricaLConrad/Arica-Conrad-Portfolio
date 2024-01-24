@@ -18,23 +18,23 @@ My professor also stressed the importance of creativity and exploring typography
 
 I first created 10 rough draft drawings using pencil and paper. I had fun experimenting with the typography for each picture, especially the bubble font I used for my "A pirate’s life for me!" picture. Most of the phrases I used in my drawings came from pop culture, either through songs or movies. The drawing I ended up choosing for my final design was inspired by Frank Sinatra’s "Fly Me to the Moon" song.
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Rough-Drafts-1.jpg" alt="Six rough drawings using paper and pencil. Picture 1 has a rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Picture 2 has a pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it. Picture 3 has a snowman next to two trees with the phrase 'When snow falls nature listens' next to it. Picture 4 has five fish with the phrase 'There's always a bigger fish' next to it. Picture 5 has five mountains and some birds with the phrase 'Tomorrow is a new day' next to it. Picture 6 has five balloons with the phrase 'Oh, the places you'll go' inside each balloon." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Rough-Drafts-1.jpg" alt="Six rough drawings using paper and pencil. Picture 1 has a rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Picture 2 has a pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it. Picture 3 has a snowman next to two trees with the phrase 'When snow falls nature listens' next to it. Picture 4 has five fish with the phrase 'There's always a bigger fish' next to it. Picture 5 has five mountains and some birds with the phrase 'Tomorrow is a new day' next to it. Picture 6 has five balloons with the phrase 'Oh, the places you'll go' inside each balloon." width="100%" height="100%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Rough-Drafts-2.jpg" alt="Four more rough drawings using paper and pencil. Picture 7 has a heart with the phrase 'Happiness is a warm hug' in it. Picture 8 has a magic wand with the phrase 'Faith, trust, and pixie dust' next to it. Picture 9 has leaves falling from a tree onto three pumpkins with the phrase 'Leaves are falling autumn's calling' next to it. Picture 10 has a Christmas tree with the phrase 'Dreaming of a white Christmas' next to it." width="50%" height="50%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Rough-Drafts-2.jpg" alt="Four more rough drawings using paper and pencil. Picture 7 has a heart with the phrase 'Happiness is a warm hug' in it. Picture 8 has a magic wand with the phrase 'Faith, trust, and pixie dust' next to it. Picture 9 has leaves falling from a tree onto three pumpkins with the phrase 'Leaves are falling autumn's calling' next to it. Picture 10 has a Christmas tree with the phrase 'Dreaming of a white Christmas' next to it." width="75%" height="75%"/>
 
 # Tight Rough Drafts
 
 After my rough draft drawings were complete, I chose five of them to explore further. For these tight rough drafts, we could introduce color in the form of analogous or triadic color schemes (black and white could also be included). I picked color schemes that seemed most realistic for each picture. For instance, autumn has a lot of reds and oranges in real life, so I thought an analogous color scheme using red, orange, and yellow would be the most realistic. In contrast, I imagined my rocket ship using a retro red, white, and blue color scheme, so adding yellow to color the Moon would make a triadic color scheme.
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-1.jpg" alt="Full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it." width="25%" height="25%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-1.jpg" alt="Full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it." width="75%" height="75%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-2.jpg" alt="Full-color version of the picture of the pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it." width="25%" height="25%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-2.jpg" alt="Full-color version of the picture of the pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it." width="75%" height="75%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-3.jpg" alt="Full-color version of the picture of the leaves falling from a tree onto three pumpkins with the phrase 'Leaves are falling autumn's calling' next to it." width="25%" height="25%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-3.jpg" alt="Full-color version of the picture of the leaves falling from a tree onto three pumpkins with the phrase 'Leaves are falling autumn's calling' next to it." width="75%" height="75%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-4.jpg" alt="Full-color version of the picture of the snowman next to two trees with the phrase 'When snow falls nature listens' next to it." width="25%" height="25%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-4.jpg" alt="Full-color version of the picture of the snowman next to two trees with the phrase 'When snow falls nature listens' next to it." width="75%" height="75%"/>
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-5.jpg" alt="Full-color version of the picture of the Christmas tree with the phrase 'Dreaming of a white Christmas' next to it." width="25%" height="25%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Tight-Rough-Drafts-5.jpg" alt="Full-color version of the picture of the Christmas tree with the phrase 'Dreaming of a white Christmas' next to it." width="75%" height="75%"/>
 
 # Process
 
@@ -44,17 +44,17 @@ I first recreated my picture in Adobe Illustrator. I did end up having to do som
 
 I also played around with the idea of applying strokes that create lots of lines. I discussed this with my professor, and we decided that I should use strokes that do not make a lot of lines to fit with the spirit of the shape limitations (e.g. five lines only). However, I still want to share this other version of my design, as it helped influence my final design. Just to reaffirm, I only drew five lines in Illustrator; this is all stroke technique.
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Process-1.jpg" alt="A digitally created, full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Impressionistic blue swirls are coming from the bottom and left side of the picture to reach the Moon." width="50%" height="50%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Process-1.jpg" alt="A digitally created, full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Impressionistic blue swirls are coming from the bottom and left side of the picture to reach the Moon." width="75%" height="75%"/>
 
 I then used Adobe InDesign to create my final submission layout. We were instructed to include our final draft image, our five tight rough drafts, and our submission statement.
 
 # Final Submission
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-1.jpg" alt="A collage containing the digitally created, full-color version of the picture of the rocket ship; text explaining the process to create the rocket ship picture; and the five full-colored versions of the pictures of the rocket ship, pirate ship, autumn leaves, snowman and trees, and Christmas tree." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-1.jpg" alt="A collage containing the digitally created, full-color version of the picture of the rocket ship; text explaining the process to create the rocket ship picture; and the five full-colored versions of the pictures of the rocket ship, pirate ship, autumn leaves, snowman and trees, and Christmas tree." width="100%" height="100%"/>
 
 Here is a bigger version of my final picture:
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-2.jpg" alt="A digitally created, full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Simple, ombre blue swirls are coming from the bottom and left side of the picture to reach the Moon." width="75%" height="75%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-2.jpg" alt="A digitally created, full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Simple, ombre blue swirls are coming from the bottom and left side of the picture to reach the Moon." width="100%" height="100%"/>
 
 This was my submission statement:
 
