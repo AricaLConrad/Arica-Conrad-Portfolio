@@ -52,9 +52,9 @@ I then used Adobe InDesign to create my final submission layout. We were instruc
 
 This was my final submission for Assignment 4. I also attached this picture in a post to a Canvas discussion forum for peer analysis by my classmates.
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-1.jpg" alt="A collage containing the digitally created, full-color version of the picture of the rocket ship; text explaining the process to create the rocket ship picture; and the five full-colored versions of the pictures of the rocket ship, pirate ship, autumn leaves, snowman and trees, and Christmas tree." width="125%" height="125%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-1.jpg" alt="A collage containing the digitally created, full-color version of the picture of the rocket ship; text explaining the process to create the rocket ship picture; and the five full-colored versions of the pictures of the rocket ship, pirate ship, autumn leaves, snowman and trees, and Christmas tree." width="150%" height="150%"/>
 
-Here is a bigger version of my final picture:
+Here is a larger version of my final picture:
 
 <img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Final-Submission-2.jpg" alt="A digitally created, full-color version of the picture of the rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Simple, ombre blue swirls are coming from the bottom and left side of the picture to reach the Moon." width="100%" height="100%"/>
 
