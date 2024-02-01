@@ -8,7 +8,7 @@ Positive space in a design is what the viewer naturally focuses on. For instance
 
 For this assignment, though, we were going to focus on ambiguous space. Ambiguous space is when the amount of positive and negative space in a design is nearly or completely equal. This can cause a design to "flip-flop" easily for the viewer. Optical illusions often use ambiguous space to trick the viewer into seeing two different designs, such as in the famous optical illusion, Rubin's vase, as shown here: 
 
-<img src="../assets/images/Conrad-Graphic-Design-Assignment-2-Rubins-Vase-1.png" alt="An optical illusion showing a white vase or two black silhouettes." width="100%" height="100%"/>
+<img src="../assets/images/Conrad-Graphic-Design-Assignment-2-Rubins-Vase-1.png" alt="An optical illusion showing a white vase or two black silhouettes." width="25%" height="25%"/>
 
 _Is it a white vase, or two black silhouettes?_
 
