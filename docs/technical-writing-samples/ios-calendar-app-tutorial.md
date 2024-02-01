@@ -82,7 +82,7 @@ You should now be able to see your event on the calendar, either as a dot in the
 
 _The new "Book Sale" event on May 4 can be seen in the daily list view._
 
-When an event has been added to your calendar, the event will appear as an alert notification on your phone’s lock screen on the day of the event. To view the event, if you are logged out of your phone, swipe up on your lock screen and a small box will display your event in the Notification Center. If you are logged into your phone, swipe down from the top of the screen and the same Notification Center will be displayed. The following screenshot is an example of an alert notification for a holiday in the lock screen's Notification Center.
+When an event has been added to your calendar, the event will appear as an alert notification on your phone's lock screen on the day of the event. To view the event, if you are logged out of your phone, swipe up on your lock screen and a small box will display your event in the Notification Center. If you are logged into your phone, swipe down from the top of the screen and the same Notification Center will be displayed. The following screenshot is an example of an alert notification for a holiday in the lock screen's Notification Center.
 
 <img src="../assets/images/Conrad-iOS-Calendar-App-Tutorial-Screenshot-12.PNG" alt="iOS lock screen Notification Center, with an event alert about the holiday Palm Sunday happening today." width="25%" height="25%"/>
 
