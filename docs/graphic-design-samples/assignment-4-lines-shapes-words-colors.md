@@ -16,7 +16,7 @@ My professor also stressed the importance of creativity and exploring typography
 
 # Rough Drafts
 
-I first created 10 rough draft drawings using pencil and paper. I had fun experimenting with the typography for each picture, especially the bubble font I used for my "A pirate’s life for me!" picture. Most of the phrases I used in my drawings came from pop culture, either through songs or movies. The drawing I ended up choosing for my final design was inspired by Frank Sinatra’s "Fly Me to the Moon" song.
+I first created 10 rough draft drawings using pencil and paper. I had fun experimenting with the typography for each picture, especially the bubble font I used for my "A pirate's life for me!" picture. Most of the phrases I used in my drawings came from pop culture, either through songs or movies. The drawing I ended up choosing for my final design was inspired by Frank Sinatra's "Fly Me to the Moon" song.
 
 <img src="../assets/images/Conrad-Graphic-Design-Assignment-4-Rough-Drafts-1.jpg" alt="Six rough drawings using paper and pencil. Picture 1 has a rocket ship pointing to the Moon with the phrase 'Fly me to the Moon' next to it. Picture 2 has a pirate ship sailing on the ocean with the phrase 'A pirate's life for me' next to it. Picture 3 has a snowman next to two trees with the phrase 'When snow falls nature listens' next to it. Picture 4 has five fish with the phrase 'There's always a bigger fish' next to it. Picture 5 has five mountains and some birds with the phrase 'Tomorrow is a new day' next to it. Picture 6 has five balloons with the phrase 'Oh, the places you'll go' inside each balloon." width="100%" height="100%"/>
 
@@ -60,7 +60,7 @@ Here is a larger version of my final picture:
 
 This was my submission statement:
 
-I decided to choose my first tight rough as the one that will be rendered in Illustrator. In my tight rough, I used a primary color triadic scheme, and I decided to stick with that, as I liked how it popped against the black background. I utilized Illustrator’s suggested tints and shades for the triadic colors I chose, and you can see that in the moon and the gradient in the text, swirls, and rocket ship. The font I used was an Adobe cursive font called “Learning Curve.” That provided the right “flying among the stars” feeling I was going after.
+I decided to choose my first tight rough as the one that will be rendered in Illustrator. In my tight rough, I used a primary color triadic scheme, and I decided to stick with that, as I liked how it popped against the black background. I utilized Illustrator's suggested tints and shades for the triadic colors I chose, and you can see that in the moon and the gradient in the text, swirls, and rocket ship. The font I used was an Adobe cursive font called “Learning Curve.” That provided the right “flying among the stars” feeling I was going after.
 
 To achieve all of the effects I wanted for my design, I did have to do some internet research on applying a gradient to text and applying a gradient to a stroke. This research was worth it, though, because I was able to achieve the effect of the text increasing in lightness as it got closer to the Moon by using a lighter blue color. To achieve the effect of the Moon glowing, I used the Blur effect that was shown in one of the given resources. I also used the Blur effect on my stars and my swirls.
 
