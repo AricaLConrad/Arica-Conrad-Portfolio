@@ -50,7 +50,7 @@ In the "Information" section, you can put your full name, your primary language,
 
 The next section is the "Emergency Contacts" section, where you can add people from your Contacts List to be your preferred contacts in the case of an emergency. You can specify your relationship to each emergency contact as well. In the following screenshot, the user added in their spouse "John Smith" and their son "Joe Smith" as emergency contacts, with their phone numbers listed below their names, when initializing the Medical ID.
 
-Note that you may not have this information listed in your Medical ID. The following section, "Part 3: Adding to and Editing the Medical IDs Information," will explain how to add this information to your Medical ID.
+Note that you may not have this information listed in your Medical ID. The following section, "Part 3: Adding to and Editing the Medical ID's Information," will explain how to add this information to your Medical ID.
 
 <img src="../assets/images/Conrad-iOS-Emergency-Information-Tutorial-Screenshot-5.PNG" alt="The iOS finalized Medical ID screen, which has the two sections of Information and Emergency Contacts. In the Information section, Jane Smith, the user's name, and their primary language, English, are listed. In the Emergency Contacts section, there are two people listed. One is the user's spouse, John Smith, with a phone number of 123-456-7890. The other is the user's son, Joe Smith, with a phone number of 321-987-6540." width="25%" height="25%"/>
 
