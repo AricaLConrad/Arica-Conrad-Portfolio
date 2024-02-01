@@ -58,7 +58,7 @@ Finally, the elevation of your current location is listed.
 
 _Your current elevation is shown last._
 
-To change the direction your phone is facing, first place your phone flat in the palm of your hand with the screen facing up. Next, while keeping the phone flat in your palm, slowly move your arm in a half-circle. Notice how the thick white line showing your phone’s current direction has moved around the circle of degrees. Also notice that the direction listed at the bottom half of the screen changed to reflect where the thick white line is now. Try and see if you can make the thick white line complete a 360-degree rotation.
+To change the direction your phone is facing, first place your phone flat in the palm of your hand with the screen facing up. Next, while keeping the phone flat in your palm, slowly move your arm in a half-circle. Notice how the thick white line showing your phone's current direction has moved around the circle of degrees. Also notice that the direction listed at the bottom half of the screen changed to reflect where the thick white line is now. Try and see if you can make the thick white line complete a 360-degree rotation.
 
 <img src="../assets/images/Conrad-iOS-Compass-App-Tutorial-Screenshot-8.png" alt="iOS Compass App main screen, showing a changed current direction." width="25%" height="25%"/>
 
