@@ -60,7 +60,7 @@ Here is a larger version of my final picture:
 
 This was my submission statement:
 
-I decided to choose my first tight rough as the one that will be rendered in Illustrator. In my tight rough, I used a primary color triadic scheme, and I decided to stick with that, as I liked how it popped against the black background. I utilized Illustrator's suggested tints and shades for the triadic colors I chose, and you can see that in the moon and the gradient in the text, swirls, and rocket ship. The font I used was an Adobe cursive font called “Learning Curve.” That provided the right “flying among the stars” feeling I was going after.
+I decided to choose my first tight rough as the one that will be rendered in Illustrator. In my tight rough, I used a primary color triadic scheme, and I decided to stick with that, as I liked how it popped against the black background. I utilized Illustrator's suggested tints and shades for the triadic colors I chose, and you can see that in the moon and the gradient in the text, swirls, and rocket ship. The font I used was an Adobe cursive font called "Learning Curve." That provided the right "flying among the stars" feeling I was going after.
 
 To achieve all of the effects I wanted for my design, I did have to do some internet research on applying a gradient to text and applying a gradient to a stroke. This research was worth it, though, because I was able to achieve the effect of the text increasing in lightness as it got closer to the Moon by using a lighter blue color. To achieve the effect of the Moon glowing, I used the Blur effect that was shown in one of the given resources. I also used the Blur effect on my stars and my swirls.
 
