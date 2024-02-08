@@ -2,7 +2,7 @@
 
 # About This Assignment
 
-For this assignment in my graphic design class, we were going to explore positive, negative, and ambiguous space in Adobe Illustrator using only black and white as the color scheme. 
+For the second assignment in my graphic design class, we were going to explore positive, negative, and ambiguous space in Adobe Illustrator using only black and white as the color scheme. 
 
 Positive space in a design is what the viewer naturally focuses on. For instance, the person depicted in a portrait is the positive space. In contrast, negative space is the space around the positive space and is often a place of rest for the eyes. Using the previous example of a person depicted in a portrait, the background is the negative space. When done well, a combination of positive and negative space can lead to a pleasing and balanced viewing experience.
 
