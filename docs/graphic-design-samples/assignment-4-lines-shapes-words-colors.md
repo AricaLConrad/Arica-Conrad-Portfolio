@@ -2,7 +2,7 @@
 
 # About This Assignment
 
-For this assignment in my graphic design class, we were instructed to focus on lines, shapes, words, and colors to convey a message. Specifically, each picture had to include the following (no more, no less):
+For the fourth assignment in my graphic design class, we were instructed to focus on lines, shapes, words, and colors to convey a message. Specifically, each picture had to include the following (no more, no less):
 
 -	5 words (my professor was flexible and counted contractions as one word)
 -	5 lines
