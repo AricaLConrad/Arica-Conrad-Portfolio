@@ -36,7 +36,7 @@ Before creating our design in Adobe Illustrator, we first created a tight rough 
 
 <img src="../assets/images/Conrad-Graphic-Design-Assignment-3-Tight-Rough-Draft-1.jpg" alt="Black and white Sharpie drawing of design 4 from the rough drafts. It is a 3-D, figure-eight rectangular shape that is filled with a solid line in the middle and two dashed lines on either side of the solid line, reminiscent of a road. The space around the figure-eight is filled with tight circular lines." width="75%" height="75%"/>
 
-Some feedback my professor gave me about my rough draft was to not be afraid to let my design extend past the edges of the frame. I took that advice with my tight rough draft and modified the overall shape of the movement by tilting it so it could extend past the corners. One of my other major changes was to simplify the 3-D aspect of my shape. Instead of alternating with dark and lighter sections, I went with one thin line type.
+Some feedback my professor gave me about my rough draft was to not be afraid to let my design extend past the edges of the frame. I took that advice with my tight rough draft and modified the overall shape of the movement by tilting it so it could extend past the corners. One of my other major changes was to simplify the 3-D aspect of my shape. Instead of alternating with dark and light sections, I went with one thin line type.
 
 # Final Submission
 
