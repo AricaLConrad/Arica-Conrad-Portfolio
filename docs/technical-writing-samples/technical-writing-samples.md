@@ -14,6 +14,7 @@ Below are links to my technical writing samples.
 - [iOS Calendar App Tutorial](./ios-calendar-app-tutorial.md) 📆
 - [iOS Emergency Information Tutorial](./ios-emergency-information-tutorial.md)⚕️
 - [Audience Technical Rewrite](./audience-technical-rewrite.md) 📄
+- [Collaborating In Our Virtual World Infographic](collaborating-in-our-virtual-world-infographic.md) 🖼️
 
 <br> ---
 
