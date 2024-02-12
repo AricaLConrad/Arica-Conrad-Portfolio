@@ -18,7 +18,9 @@ You can view a copy of my resume HERE.
 
 To view my technical writing work samples, please click on the following link.
 
-- [Technical Writing Samples](technical-writing-samples/technical-writing-samples.md) 📝
+<br>
+
+[Technical Writing Samples](technical-writing-samples/technical-writing-samples.md) 📝 |
 <!-- [Graphic Design Samples](graphic-design-samples/graphic-design-samples.md) 🎨 -->
 
 # Contact Me
