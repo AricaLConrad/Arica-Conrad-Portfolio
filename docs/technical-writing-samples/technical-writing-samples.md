@@ -10,6 +10,7 @@ I am interested in technical writing because the words we use are very important
 
 Below are links to my technical writing samples.
 
+- [Dynamic Programming Presentation](./dynamic-programming-presentation.md) 💻
 - [iOS Compass App Tutorial](./ios-compass-app-tutorial.md) 🧭
 - [iOS Calendar App Tutorial](./ios-calendar-app-tutorial.md) 📆
 - [iOS Emergency Information Tutorial](./ios-emergency-information-tutorial.md)⚕️
