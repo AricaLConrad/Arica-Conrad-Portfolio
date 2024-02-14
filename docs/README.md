@@ -12,7 +12,7 @@ Since January 2023, I have been working as a part-time Library Page for Sno-Isle
 
 I believe my technical, design, and customer service experience makes me a great fit for a Technical Writing position. I bring with me my computer science degree, my experience using GitHub and Markdown (which is being used for this portfolio), strong writing and communication skills, and an ability to write for technical and non-technical audiences.
 
-You can view a copy of my resume HERE.
+You can view a copy of my resume [here](assets/files/Arica-Conrad-Resume.pdf).
 
 # Work Samples
 
