@@ -2,13 +2,9 @@
 
 # About This Tutorial
 
-**Complete later!!!**
+The iOS Compass App Tutorial was one of three tutorials I wrote for my capstone project (the other two being the [iOS Calendar App Tutorial](./ios-calendar-app-tutorial.md) and the [iOS Emergency Information Tutorial](./ios-emergency-information-tutorial.md)). My capstone project focused on further developing TechEase, an app project I had been working on for most of my degree so that I could test the app with actual users. TechEase is an iOS app that provides text, video, and practice tutorials so inexperienced users can learn how to use their iPhones in a safe and controlled environment. TechEase was created for Wider Horizons, a Seattle-based organization for seniors. You can read more about the development of TechEase [here](https://github.com/MobileApps-Cascadia/TechEase_iOS/wiki).
 
-Some background information about why I wrote this tutorial and what it means for TechEase. Probably could mention that this was the first tutorial I wrote for TechEase.
-
-Maybe talk about some challenges with writing this tutorial as well as how I gathered feedback.
-
-Explain why I am providing an excerpt and not the whole tutorial. (Because it is very long...)
+This tutorial was the first tutorial I wrote for TechEase. I wanted to write my first tutorial on an iOS app that was smaller with fewer features to write about, but could still be useful for the active, outdoorsy seniors in Wider Horizons. I am only providing an excerpt of my tutorial in the next section, as the original tutorial is fairly long, but a link to the full tutorial PDF is listed at the end of this page.
 
 # Tutorial Excerpt
 
