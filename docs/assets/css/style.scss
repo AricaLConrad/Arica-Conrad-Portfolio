@@ -1,7 +1,10 @@
 ---
 ---
 
-$section-headings-color: #04294B;
-$body-link-color: #13616B;
+$header-bg-color: #13616B;
+$header-bg-color-secondary: #81D7E3;
+
+$section-headings-color: #13616B;
+$body-link-color: #29ABBD;
 
 @import "{{ site.theme }}";
